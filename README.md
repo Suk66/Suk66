@@ -33,18 +33,12 @@
 
 ---
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSuk66%2Fhit-counter&count_bg=%23C953CF&title_bg=%23555555&icon=bower.svg&icon_color=%2308BCDF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+### 📫 Contact Me
+Feel free to connect with me:
+- 📧 Email: [goawwl77@google.com](mailto:your-email@example.com)
+- 🌐 [Your Portfolio or Website](https://your-portfolio.com)
 
-
-
-Here are some ideas to get you started:
-
-
-
-
-
-
-
+---
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -55,3 +49,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
+
+
+---
