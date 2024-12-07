@@ -1,7 +1,6 @@
 ## Hi there 👋
 **Suk66/Suk66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suk66&layout=compact&theme=radical)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSuk66%2Fhit-counter&count_bg=%23C953CF&title_bg=%23555555&icon=bower.svg&icon_color=%2308BCDF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <p>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=tomato" />
