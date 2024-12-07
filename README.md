@@ -14,9 +14,6 @@
 
 </p>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSuk66&count_bg=%23C953CF&title_bg=%23555555&icon=bower.svg&icon_color=%2308BCDF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-
 ### 📈 My GitHub Stats [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSuk66&count_bg=%23C953CF&title_bg=%23555555&icon=bower.svg&icon_color=%2308BCDF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suk66&show_icons=true&theme=radical)
