@@ -26,7 +26,7 @@
   </span>
 </span>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suk66&show_icons=true&theme=radical)
+
 
 
 
