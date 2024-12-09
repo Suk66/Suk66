@@ -16,6 +16,14 @@
 
 <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
 
+<img src="https://img.shields.io/badge/oracle-%23F80000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
+
+<img src="https://img.shields.io/badge/sqlite-%23003B57.svg?&style=for-the-badge&logo=sqlite&logoColor=white" />
+
+<img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
+
+<img src="https://img.shields.io/badge/postgresql-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
+
 
 ### 📈 My GitHub Stats &nbsp;&nbsp;🚀&nbsp;&nbsp;![Code Lover](https://img.shields.io/badge/Code-Lover-blue?style=flat-square) &nbsp;&nbsp;[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSuk66&count_bg=%23C953CF&title_bg=%23555555&icon=bower.svg&icon_color=%2308BCDF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
