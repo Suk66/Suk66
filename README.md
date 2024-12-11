@@ -42,7 +42,7 @@
 
 ### 📫 Contact Me
 Feel free to connect with me:
-- 📧 Email: [goawwl77@google.com](mailto:your-email@example.com)
+- 📧 Email: [goawwl66@google.com](mailto:your-email@example.com)
 - 🌐 [Your Portfolio or Website](https://your-portfolio.com)
 
 ---
